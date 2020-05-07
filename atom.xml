@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lwg2020.github.io/"/>
-  <updated>2020-04-16T09:15:54.350Z</updated>
+  <updated>2020-04-26T03:01:53.213Z</updated>
   <id>https://lwg2020.github.io/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>linux基本命令</title>
+    <link href="https://lwg2020.github.io/2020/04/26/linux-ji-ben-ming-ling/"/>
+    <id>https://lwg2020.github.io/2020/04/26/linux-ji-ben-ming-ling/</id>
+    <published>2020-04-26T02:45:00.000Z</published>
+    <updated>2020-04-26T03:01:53.213Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-关机-系统的关机、重启以及登出-的命令&quot;&gt;&lt;a href=&quot;#1-关机-系统的关机、重启以及登出-的命令&quot; class=&quot;headerlink&quot; title=&quot;1.关机 (系统的关机、重启以及登出 ) 的命令**&quot;&gt;&lt;/a&gt;1.关机
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="https://lwg2020.github.io/categories/Markdown/"/>
+    
+    
+      <category term="Typora" scheme="https://lwg2020.github.io/tags/Typora/"/>
+    
+      <category term="Markdown" scheme="https://lwg2020.github.io/tags/Markdown/"/>
+    
+      <category term="linux" scheme="https://lwg2020.github.io/tags/linux/"/>
+    
+      <category term="Centos7" scheme="https://lwg2020.github.io/tags/Centos7/"/>
+    
+  </entry>
   
   <entry>
     <title>Mybatis</title>
